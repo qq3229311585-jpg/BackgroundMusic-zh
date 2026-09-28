@@ -2,7 +2,7 @@
 
 "Background Music needs permission to use microphones." = "Background Music 需要使用麦克风的权限。";
 
-"It uses a virtual microphone to access your system's audio.\n\nYou can grant the permission by going to System Preferences > Security and Privacy > Microphone and checking the box for Background Music." = "它需要通过虚拟麦克风来获取系统音频。\n\n你可以前往“系统偏好设置 > 安全性与隐私 > 麦克风”，勾选 Background Music 来授予该权限。";
+"It uses a virtual microphone to access your system's audio.\n\nYou can grant the permission by going to System Preferences > Security and Privacy > Microphone and checking the box for Background Music." = "它需要通过虚拟麦克风来获取系统音频。\n\n你可以前往“系统设置 > 隐私与安全性 > 麦克风”，勾选 Background Music 来授予该权限。";
 
 "Could not set the Background Music device as yourdefault audio device." = "无法将 Background Music 设备设为你的默认音频输出设备。";
 
@@ -32,7 +32,7 @@
 
 "OK" = "好";
 
-"Open Sound in System Preferences" = "在系统偏好设置中打开声音";
+"Open Sound in System Preferences" = "在系统设置中打开声音";
 
 /* BGMAppVolumes.m */
 

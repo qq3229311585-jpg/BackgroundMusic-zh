@@ -107,7 +107,7 @@
 "nHv-T8-1nb.title" = "自动暂停音乐";
 
 /* Class = "NSMenuItem"; ibShadowedToolTip = "Log detailed messages to help diagnose bugs. Search for \"bgm\" or \"background music\" in Console.app."; ObjectID = "sc9-vO-KyP"; */
-"sc9-vO-KyP.ibShadowedToolTip" = "记录详细日志以便排查问题。可在\"控制台\"App 中搜索 \"bgm\" 或 \"background music\" 查看。";
+"sc9-vO-KyP.ibShadowedToolTip" = "记录详细日志以便排查问题。可在“控制台”App 中搜索“bgm”或“background music”查看。";
 
 /* Class = "NSMenuItem"; title = "Debug Logging"; ObjectID = "sc9-vO-KyP"; */
 "sc9-vO-KyP.title" = "调试日志";
